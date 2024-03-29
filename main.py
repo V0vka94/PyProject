@@ -25,7 +25,6 @@ print ('Завтра ', tdate.strftime('%d.%m'))
 
 TOKEN = 'YOUR_API_TOKEN' # это нельзя! писать здесь / you cannot write this here!  
 # используй .env файл / use .env file 
-#6738198747:AAHtDn52JvKQ1xhLc-g7NS02LhmJeGfRr_k
 
 # All handlers should be attached to the Router (or Dispatcher)
 dp = Dispatcher()
